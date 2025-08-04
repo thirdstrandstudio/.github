@@ -1,6 +1,6 @@
 <div align="center">
-  
-  ![Third Strand Studio Banner](https://via.placeholder.com/1200x300)
+
+<img width="24" height="25" alt="logo-icon (3)" src="https://github.com/user-attachments/assets/9e4b59ef-6e53-43b6-9281-d191d43986c8" />
 
   ```
   _______ _     _         _    ___ _                  _ 
@@ -120,7 +120,7 @@ Have questions, ideas, or just want to say hello? We'd love to hear from you!
 
 ---
 
-<img src="https://via.placeholder.com/150" alt="Third Strand Studio Logo" width="100">
+<img width="24" height="25" alt="logo-icon (3)" src="https://github.com/user-attachments/assets/9e4b59ef-6e53-43b6-9281-d191d43986c8" />
 
 **© 2025 Third Strand Studio. All rights reserved.**
 
