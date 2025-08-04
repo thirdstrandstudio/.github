@@ -59,17 +59,6 @@ We believe in:
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**Project Alpha**](https://github.com/ThirdStrandStudio/project-alpha) | An innovative framework for rapid application development | [![Status](https://img.shields.io/badge/status-active-success)](https://github.com/ThirdStrandStudio/project-alpha) |
-| [**Quantum UI**](https://github.com/ThirdStrandStudio/quantum-ui) | A modern, accessible UI component library | [![Status](https://img.shields.io/badge/status-beta-yellowgreen)](https://github.com/ThirdStrandStudio/quantum-ui) |
-| [**DataCanvas**](https://github.com/ThirdStrandStudio/datacanvas) | Interactive data visualization tool | [![Status](https://img.shields.io/badge/status-stable-blue)](https://github.com/ThirdStrandStudio/datacanvas) |
-| [**Nexus API**](https://github.com/ThirdStrandStudio/nexus-api) | Gateway for connecting disparate systems | [![Status](https://img.shields.io/badge/status-experimental-orange)](https://github.com/ThirdStrandStudio/nexus-api) |
-
-</div>
-
 *Explore all our [repositories](https://github.com/orgs/ThirdStrandStudio/repositories) to see our full range of projects.*
 
 ## 💻 Our Tech Stack
@@ -117,14 +106,14 @@ Need something built specifically for your business? Third Strand Studio offers 
 - 🔒 **Security Auditing & Implementation**
 - 📈 **Data Analysis & Visualization**
 
-[Contact us](mailto:contact@thirdstrandstudio.com) to discuss your project!
+[Contact us](mailto:contact@topiray.com) to discuss your project!
 
 ## 📬 Get in Touch
 
 Have questions, ideas, or just want to say hello? We'd love to hear from you!
 
-- **Website:** [thirdstrandstudio.com](https://thirdstrandstudio.com)
-- **Email:** [contact@thirdstrandstudio.com](mailto:contact@thirdstrandstudio.com)
+- **Website:** [thirdstrandstudio.com](https://tss.topiray.com)
+- **Email:** [contact@thirdstrandstudio.com](mailto:contact@topiray.com)
 - **Social:** Follow us on [Twitter](https://twitter.com/ThirdStrandStudio) and [LinkedIn](https://linkedin.com/company/thirdstrandstudio)
 
 <div align="center">
