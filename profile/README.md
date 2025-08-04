@@ -20,8 +20,8 @@
 
   # Where Code Meets Creativity
 
-  [![Website](https://img.shields.io/badge/Visit_Our_Website-thirdstrandstudio.com-blue?style=for-the-badge)](https://thirdstrandstudio.com/)
-  [![Email](https://img.shields.io/badge/Contact_Us-contact@thirdstrandstudio.com-red?style=for-the-badge)](mailto:contact@thirdstrandstudio.com)
+  [![Website](https://img.shields.io/badge/Visit_Our_Website-thirdstrandstudio.com-blue?style=for-the-badge)](https://tss.topiray.com/)
+  [![Email](https://img.shields.io/badge/Contact_Us-contact@thirdstrandstudio.com-red?style=for-the-badge)](mailto:contact@topiray.com)
   [![Twitter](https://img.shields.io/badge/Follow_Us-@ThirdStrandStudio-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ThirdStrandStudio)
   [![LinkedIn](https://img.shields.io/badge/Connect-Third_Strand_Studio-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/thirdstrandstudio)
 
